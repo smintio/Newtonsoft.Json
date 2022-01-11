@@ -5,10 +5,9 @@
     <TargetFrameworks Condition="'$(LibraryFrameworks)'!=''">$(LibraryFrameworks)</TargetFrameworks>
     <LangVersion>9.0</LangVersion>
     <!-- version numbers will be updated by build -->
-    <AssemblyVersion>11.0.0.0</AssemblyVersion>
-    <FileVersion>11.0.1</FileVersion>
-    <VersionPrefix>11.0.1</VersionPrefix>
-    <VersionSuffix>beta2</VersionSuffix>
+    <AssemblyVersion>12.0.3.0</AssemblyVersion>
+    <FileVersion>12.0.3</FileVersion>
+    <VersionPrefix>12.0.3</VersionPrefix>
     <Authors>James Newton-King</Authors>
     <Company>Newtonsoft</Company>
     <Product>Json.NET</Product>
@@ -17,7 +16,7 @@
     <Summary>Json.NET is a popular high-performance JSON framework for .NET</Summary>
     <NeutralLanguage>en-US</NeutralLanguage>
     <Title>Json.NET</Title>
-    <PackageId>Newtonsoft.Json</PackageId>
+    <PackageId>SmintIo.Newtonsoft.Json</PackageId>
     <PackageTags>json</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>packageIcon.png</PackageIcon>
